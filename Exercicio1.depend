@@ -8,7 +8,7 @@
 	<stdexcept>
 	<limits>
 
-1596143895 source:c:\temp\ws-codeblocks\estrutura de dados - exercicio1\main.cpp
+1596153037 source:c:\temp\ws-codeblocks\estrutura de dados - exercicio1\main.cpp
 	<iostream>
 	<stdlib.h>
 	<stdio.h>
@@ -16,4 +16,5 @@
 	<string.h>
 	<stdexcept>
 	<limits>
+	<ctype.h>
 
