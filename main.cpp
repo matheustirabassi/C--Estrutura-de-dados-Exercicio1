@@ -65,10 +65,12 @@ int main()
     free(estudante);
 
    }
-    catch(invalid_argument& e){
+    catch(invalid_argument &e){
         cout << e.what() << endl;
         return -1;
     }
-
+    catch(runtime_error &e){
+    cout << e.what() << endl;
+    }
     return 0;
 }
